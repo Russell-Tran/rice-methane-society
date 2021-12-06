@@ -6,7 +6,7 @@ relative_permalinks: false
 
 # Setup
 title:               RMS
-tagline:             Climate change
+tagline:             Fighting climate change
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             "https://russell-tran.github.io/rice-methane-society/"
