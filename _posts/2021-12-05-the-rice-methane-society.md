@@ -12,7 +12,7 @@ So why bother? For starters, 3% of carbon emissions is not trivial on a planetar
 
 2) Create an emergency [geoengineering](https://en.wikipedia.org/wiki/Climate_engineering) lever that is more socially acceptable than alternatives like solar radiation management or deep ocean algal blooms: You can stop natural methane emissions from wetlands, which would effectively subtract 16 gigatons of carbon dioxide equivalent emissions per year. (We currently emit ~36 Gt CO2e/yr).
 
-I am looking to get in touch with someone who would be willing to found this society. The first project by this group would be to invent cheaper hardware and methods to measure methane emissions from individual rice paddies, since the current [state of the art](https://www.licor.com/env/products/eddy_covariance/LI-7700) costs $70,000 and requires sophisticated training to use. We are able to find grants for this work, likely from the [Effective Altruism](https://www.effectivealtruism.org/) community. We just need to grow this society and roll up our sleeves!
+I am looking to get in touch with someone who would be willing to found this society. The first project by this group would be to invent cheaper hardware and methods to measure methane emissions from individual rice paddies, since the current [state of the art](https://www.licor.com/env/products/eddy_covariance/LI-7700) costs $70,000 and requires sophisticated training to use. We are able to find grants for this work, likely from the [Effective Altruism](https://www.effectivealtruism.org/) community. We just need to grow this org and roll up our sleeves!
 
 
 Email `contact [at] ricemethane.org`
