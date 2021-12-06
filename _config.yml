@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: false
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               RMS
+tagline:             Climate change
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             "https://russell-tran.github.io/rice-methane-society/"
