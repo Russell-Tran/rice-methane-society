@@ -24,6 +24,6 @@ Email `contact [at] ricemethane.org`
 
 3) Field trial oxygenation of rice paddies 
 
-4) Field trial various proliferations of methanotrophs in rice paddie
+4) Field trial various proliferations of methanotrophs in rice paddies
 
 5) Field trial various proliferations of phages in rice paddies
