@@ -6,7 +6,7 @@ Day-to-day, this society would work to reduce methane emissions from rice paddie
 
 That being said, rice methane emissions are currently one of the least tractable areas to work on for climate change. The problem is distributed over 144 million rice farms in some of the most rural places in the world, where expensive technological solutions are least likely to hold up. If you're working on climate change, you're more likely to make meaningful progress in other areas, such as electrification of homes, meat alternatives, or natural gas leaks. 
 
-So why bother? For starters, 3% of carbon emissions is not trivial, and if we are to end climate change, ultimately some group of people will have to get around to solving this problem. So better to start now. But more importantly, the technology we need to address rice methane is identical to the technology we need to hedge against potential doomsday scenarios that may arise from climate change. This technology can be reused to: 
+So why bother? For starters, 3% of carbon emissions is not trivial, and if we are to end climate change, ultimately some group of people will have to get around to solving this problem. So better to start now. But more importantly, the technology we need to address rice methane is identical to the technology we need to hedge against potential doomsday scenarios that may arise from climate change. Namely, this technology can be reused to: 
 
 1) Fight methane emissions from [permafrost melt](https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system#Permafrost_and_methane_hydrates) if that becomes a disastrous runaway issue.
 
