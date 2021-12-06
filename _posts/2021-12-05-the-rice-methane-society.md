@@ -1,4 +1,3 @@
-# The Rice Methane Society
 Russell Tran
 
 I think there needs to be a long-term society for defending against extreme catastrophic risks of runaway climate change caused by methane. 
