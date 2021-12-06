@@ -2,7 +2,7 @@ Russell Tran
 
 There needs to be a long-term society for defending against extreme catastrophic risks of runaway climate change caused by methane. 
 
-Day-to-day, this society would work to reduce methane emissions from rice paddies. Rice paddies, as flooded anerobic environments, are responsible for 13% of annual anthropogenic methane emissions globally, or 3% of the climate change problem.
+Day-to-day, this society would work to reduce methane emissions from rice paddies. Rice paddies, as flooded anaerobic environments, are responsible for 13% of annual anthropogenic methane emissions globally, or 3% of the climate change problem.
 
 That being said, rice methane emissions are currently one of the least tractable areas to work on for climate change. The problem is distributed over 144 million rice farms in some of the most rural places in the world, where expensive technological solutions are least likely to hold up. If you're working on climate change, you're more likely to make meaningful progress in other areas, such as electrification of homes, meat alternatives, or natural gas leaks. 
 
